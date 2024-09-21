@@ -1,6 +1,12 @@
 
 
+**** WebSite mẫu :
+
 https://takagivietnam.vn/
+
+**** WebSite đang thiết kế :
+
+http://localhost:8888/dangvandoan/
 
 **** Link học thiết kế WebSite Bán Hàng:
 
