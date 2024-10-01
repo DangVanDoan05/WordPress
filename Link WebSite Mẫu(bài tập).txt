@@ -4,6 +4,12 @@
 
 https://takagivietnam.vn/
 
+
+**** Link CSDL:
+
+localhost:8888/phpmyadmin
+
+
 **** WebSite đang thiết kế :
 
 http://localhost:8888/dangvandoan/
