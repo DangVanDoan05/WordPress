@@ -5,7 +5,7 @@
 https://takagivietnam.vn/
 
 
-**** Link CSDL:
+**** Link CSDL: PHP MySQL
 
 localhost:8888/phpmyadmin
 
