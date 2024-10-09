@@ -12,11 +12,14 @@ localhost:8888/phpmyadmin
 
 **** WebSite đang thiết kế :
 
--Web1: http://localhost:8888/dangvandoan
+-Web1:(đang bị lỗi trang thanh toán)    http://localhost:8888/dangvandoan
 	tk: DANG VAN DOAN , MK: 123456
 
 -Web2: http://localhost:8888/takagi
 	tk: DOAN_TAKAGI , MK: 123456
+
+-Web3: http://localhost:8888/dongduongpla
+	tk: DONGDUONGADMIN , MK: 123456
 
 **** Link học thiết kế WebSite Bán Hàng:
 
