@@ -12,6 +12,10 @@ localhost:8888/phpmyadmin
 
 **** WebSite đang thiết kế :
 
+-Web in Home: http://localhost:8888/dangvandoan
+
+	TK: DANG VAN DOAN , MK: 123456
+
 -Web1:(đang bị lỗi trang thanh toán)    http://localhost:8888/dangvandoan
 	tk: DANG VAN DOAN , MK: 123456
 
