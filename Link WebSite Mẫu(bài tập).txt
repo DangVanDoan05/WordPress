@@ -26,6 +26,7 @@ localhost:8888/phpmyadmin
 	tk: DONGDUONGADMIN , MK: 123456
 
 -Web Online: https://kamagarden.vn/
+	tk: m1029dd
 
 **** Link học thiết kế WebSite Bán Hàng:
 
