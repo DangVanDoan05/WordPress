@@ -16,13 +16,13 @@ localhost:8888/phpmyadmin
 
 	TK: DANG VAN DOAN , MK: 123456
 
--Web1:(đang bị lỗi trang thanh toán)    http://localhost:8888/dangvandoan
+-Web1:(đang bị lỗi trang thanh toán)     http://localhost:8888/dangvandoan
 	tk: DANG VAN DOAN , MK: 123456
 
--Web2: http://localhost:8888/takagi
+-Web2:( trang đang bị lỗi phân quyền)    http://localhost:8888/takagi
 	tk: DOAN_TAKAGI , MK: 123456
 
--Web3: http://localhost:8888/dongduongpla
+-Web3:( trang báo cáo)    http://localhost:8888/dongduongpla
 	tk: DONGDUONGADMIN , MK: 123456
 
 -Web Online: https://kamagarden.vn/
